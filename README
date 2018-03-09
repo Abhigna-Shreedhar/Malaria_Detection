@@ -1,0 +1,2 @@
+Malaria is a serious infectious disease. According to the World Health Organization, it is responsible for nearly one million deaths each year. There are various techniques to diagnose malaria of which manual microscopy is considered to be the gold standard. However due to the number of steps required in manual assessment, this diagnostic method is time consuming (leading to late diagnosis) and prone to human error (leading to erroneous diagnosis), even in experienced hands. 
+This matlab program aims to detect Malaria parasites in scanned versions of blood samples.
